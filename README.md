@@ -1,7 +1,7 @@
 
 # Speed Test Logger
 
-Este proyecto utiliza la biblioteca `speedtest` para medir la velocidad de Internet y guardar los resultados en un archivo CSV. Es ideal para monitorear el rendimiento de tu conexión a lo largo del tiempo.
+Este script en Python utiliza la biblioteca `speedtest` para medir la velocidad de Internet y guardar los resultados en un archivo CSV. Es ideal para monitorear el rendimiento de tu conexión a lo largo del tiempo.
 
 ## Características
 
