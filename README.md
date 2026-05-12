@@ -29,7 +29,7 @@ pip install speedtest-cli
 2. Ejecuta el script:
 
 ```bash
-python speed_test_logger.py
+python3 speed_test_logger.py
 ```
 
 3. Los resultados se guardarán automáticamente en el archivo `speedtest_results.csv`.
